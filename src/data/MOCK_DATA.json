@@ -1,0 +1,59 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Producto 1",
+        "descripcion": "Lorem ipsum asf lkjf",
+        "precio": 1500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "panaderia"
+    },
+    {
+        "id": 2,
+        "nombre": "Producto 2",
+        "descripcion": "Lorem ipsum asf lkjf",
+        "precio": 2500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "panaderia"
+    },
+    {
+        "id": 3,
+        "nombre": "Producto 3",
+        "descripcion": "Lorem ipsum asf lkjf",
+        "precio": 3500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "verduleria"
+    },
+    {
+        "id": 4,
+        "nombre": "Producto 4",
+        "descripcion": "Lorem ipsum asf lkjf",
+        "precio": 4500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "carniceria"
+    },
+    {
+        "id": 5,
+        "nombre": "Producto 5",
+        "descripcion": "Lorem ipsum asf lkjf",
+        "precio": 5500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "carniceria"
+    },
+    {
+        "id": 6,
+        "nombre": "Producto 6",
+        "descripcion": "Lorem ipsum asf lkjf",
+        "precio": 6500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "perfumeria"
+    },
+    {
+        "id": 7,
+        "nombre": "Producto 7",
+        "descripcion": "Lorem ipsum asf lkjf",
+        "precio": 7500,
+        "img": "https://dummyimage.com/200x200/000/fff",
+        "category": "panaderia"
+    }
+]
